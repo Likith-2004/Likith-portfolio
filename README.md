@@ -166,15 +166,48 @@ Want to fork and deploy your own?
 
 ---
 
-## 🧠 Featured Project
-
-### Brain Tumor Detection — Medical AI System
+## 🧠 Projects
+ 
+### 01 — Brain Tumor Detection - `Medical AI System`
 > Deep learning model that detects and classifies brain tumors from MRI scans with visual explanations via Grad-CAM.
-
-- **Model:** ResNet18
-- **Technique:** Grad-CAM explainability heatmaps
-- **Stack:** PyTorch · Python · Flask · OpenCV · Grad-CAM
-
+ 
+`PyTorch` `ResNet18` `Grad-CAM` `Flask` `Deep Learning`
+ 
+---
+ 
+### 02 — Chest Pneumonia Detection - `Healthcare AI`
+> CNN-based model to detect pneumonia from chest X-rays with explainable AI techniques for clinical interpretability.
+ 
+`CNN` `PyTorch` `Explainable AI` `Flask` `Medical Imaging`
+ 
+---
+ 
+### 03 — Number Plate Detection & OCR - `Computer Vision`
+> Real-time vehicle number plate detection and text extraction pipeline using YOLOv8 and OCR.
+ 
+`YOLOv8` `OpenCV` `OCR` `Flask` `Real-Time Detection`
+ 
+---
+ 
+### 04 — Credit Card Fraud Detection - `Machine Learning`
+> Anomaly detection system handling severe class imbalance with SMOTE, powered by XGBoost and SHAP explainability.
+ 
+`XGBoost` `SHAP` `Flask` `SMOTE` `Anomaly Detection`
+ 
+---
+ 
+### 05 — Fake News Detection - `Natural Language Processing`
+> NLP classifier to identify misinformation using TF-IDF feature extraction and machine learning models.
+ 
+`Machine Learning` `NLP` `TF-IDF` `Flask` `Python`
+ 
+---
+ 
+### 06 — Oil Spill Detection - `Satellite Image Analysis`
+> Deep learning pipeline to detect oil spills from satellite imagery using image segmentation and OpenCV processing.
+ 
+`OpenCV` `Deep Learning` `Image Processing` `Python`
+ 
 ---
 
 ## 📬 Connect
